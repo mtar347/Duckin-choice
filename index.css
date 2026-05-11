@@ -7,13 +7,13 @@ body {
      
 }
 
-.img {
+div {
   max-width: 100%;
   height: auto;
   display: block;
     
 }
-div {
+.img {
   display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center;     /* Centers vertically */
