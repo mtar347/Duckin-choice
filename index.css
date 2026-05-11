@@ -6,7 +6,10 @@ body {
 img {
   max-width: 100%;
   height: auto;
-  display: block;
+     display: grid;
+  place-items: center;
+  height: 600px;
+  border: 1px solid black;
 }
      
 }
