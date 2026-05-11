@@ -3,6 +3,11 @@ body {
      height: inherit;
      width: inherit;
      color: rgb(6, 6, 0);
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
      
 }
 .myButton1 {
