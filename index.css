@@ -8,8 +8,10 @@ img {
   height: auto;
      display: grid;
   place-items: center;
-  height: 600px;
   border: 1px solid black;
+    image-orientation: inherit;
+    justify-content: center;
+    align-items: center;
 }
      
 }
