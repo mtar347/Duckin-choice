@@ -3,16 +3,7 @@ body {
      height: inherit;
      width: inherit;
      color: rgb(6, 6, 0);
-img {
-  max-width: 100%;
-  height: auto;
-     display: grid;
-  place-items: center;
-  border: 1px solid black;
-    image-orientation: inherit;
-    justify-content: center;
-    align-items: center;
-}
+
      
 }
 .myButton1 {
