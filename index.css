@@ -13,3 +13,10 @@ body {
   display: block;
     
 }
+div {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  min-height: 100vh;      /* Full screen height */
+  width: 100%;
+}
